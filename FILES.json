@@ -1,0 +1,141 @@
+{
+  "edition": "Silverstone",
+  "update": "Live Silverstone hub connected and single continuous panorama applied",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 33,
+      "sha256": "893e23899800237e6c2b5fe09fcb6fab5f59aca09f69c95d7b80075820bff17e"
+    },
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "ASSET-SOURCES.md",
+      "bytes": 2137,
+      "sha256": "e35726b4d4d9b0a87d8fd5c69f45ffebe54462e431ecd93e4bce8a5785472285"
+    },
+    {
+      "path": "GENERATION-NOTES.md",
+      "bytes": 1017,
+      "sha256": "9d577fbce30fea4cc6276296f1a70f7f58f85da5297357eb36c157c3326cf65d"
+    },
+    {
+      "path": "QA.md",
+      "bytes": 2748,
+      "sha256": "403717abe932d088df941615724d692f639fc4d16d813ae6c501f7584ab9fed6"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3034,
+      "sha256": "4a4e8407725045851ca06201a85fc3ffbf6100a89644f3558ec6aa6e04914721"
+    },
+    {
+      "path": "app.js",
+      "bytes": 26701,
+      "sha256": "0fb6e5b24c141a8559709b70e1f623d6c2457285d15cf5a5d42edb4fca857ea3"
+    },
+    {
+      "path": "assets/fonts/OFL-Space-Grotesk.txt",
+      "bytes": 4495,
+      "sha256": "564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72"
+    },
+    {
+      "path": "assets/fonts/space-grotesk-variable.ttf",
+      "bytes": 136676,
+      "sha256": "acad6de1fc93436f5c0f1f4137751ef04f1aea3063e7036535970ffcfbd79f72"
+    },
+    {
+      "path": "assets/live/background.webp",
+      "bytes": 3394,
+      "sha256": "da7b4ddd91abf423a1c5682908b675970768976afc70e731a248cb4645658c5c"
+    },
+    {
+      "path": "assets/live/category-0.webp",
+      "bytes": 56308,
+      "sha256": "f8bd310bc1edbab6ec96406ad9c3aa3d71a739da149675d6bd91e4de699e6e5c"
+    },
+    {
+      "path": "assets/live/category-1.webp",
+      "bytes": 85768,
+      "sha256": "e55d53d5702975ad7b48d56340d2689c434b408843fc0c531db8f6e1b0adc5ab"
+    },
+    {
+      "path": "assets/live/category-2.webp",
+      "bytes": 82780,
+      "sha256": "ccf53ab592b72b1ddc884157045903a1775c9cc76449fdd192c881ad08a43ffb"
+    },
+    {
+      "path": "assets/live/category-3.webp",
+      "bytes": 53292,
+      "sha256": "3c4e16d7ad039700a571db218d3a8208b6ecf28de7670d7d0e1f92c7d70db2dd"
+    },
+    {
+      "path": "assets/live/category-4.webp",
+      "bytes": 64448,
+      "sha256": "ef0456fbc9cb6bf09ca8983f2167dfc9a9434f6803ca8059a5ada75edd0efaa1"
+    },
+    {
+      "path": "assets/live/logo.webp",
+      "bytes": 24390,
+      "sha256": "75560bd09cac529a1a41b0f5def1c1f8a46d44c54bed84ca9a3dba231c778a54"
+    },
+    {
+      "path": "assets/live/welcome.webp",
+      "bytes": 106150,
+      "sha256": "3fe42240f7e7dc5e3f368297c6c388cceae3e502b568dc41a190f0989273549b"
+    },
+    {
+      "path": "assets/logomark.png",
+      "bytes": 375,
+      "sha256": "7e4a9a7a88dabad21a544d1720f15babea032d55c6d2a89192e661f3cec1c307"
+    },
+    {
+      "path": "assets/silverstone-360.webp",
+      "bytes": 613428,
+      "sha256": "7761ff16294381bd7241e539f94e47d3b9742957f8b7040518ebffe793eb1705"
+    },
+    {
+      "path": "assets/silverstone-race.mp3",
+      "bytes": 1057581,
+      "sha256": "4fcb46c5011e30c763dcc87c7e6fc944fcc1a9175f00bf3580d69c17f3abb664"
+    },
+    {
+      "path": "assets/wordmark.png",
+      "bytes": 3405,
+      "sha256": "da50402a8497c25447828389bf4eac1d4a042ccab776cd4738cfd24d86b314de"
+    },
+    {
+      "path": "credits.html",
+      "bytes": 1891,
+      "sha256": "b48d5156bc539985db4da7c78b5abc1a1b6f97d3e58727edf7c13a54c03984d3"
+    },
+    {
+      "path": "experience.config.js",
+      "bytes": 2503,
+      "sha256": "195d0a62b7510119af3d64c447ac28c9d31317f8798f9ef8f828f4d443ba489e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3612,
+      "sha256": "3b4873cd9706a125e0f403b4ad10b9bbf5ec0acbdc486c2cad1c66f23b7cff0e"
+    },
+    {
+      "path": "panorama.js",
+      "bytes": 6110,
+      "sha256": "24f4a998569b814d423bd024def1aa5186e144a575cc3d760836a607f09d5543"
+    },
+    {
+      "path": "style.css",
+      "bytes": 19495,
+      "sha256": "3455f3e136c9a7ec86fea5edd67f0781a0feb4f5e4edb8def60889dcc96addc2"
+    },
+    {
+      "path": "vercel.json",
+      "bytes": 150,
+      "sha256": "799e69301860a2865debcdeade416fa6392d8e8072122a20ece585210c0b5cdf"
+    }
+  ]
+}

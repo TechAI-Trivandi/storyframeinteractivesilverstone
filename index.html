@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#160b31">
+<title>StoryFrame · Silverstone</title><meta name="description" content="Look around Silverstone, gather its stories, and take the moment with you.">
+<link rel="icon" type="image/png" href="./assets/logomark.png">
+<link rel="preload" href="./assets/fonts/space-grotesk-variable.ttf" as="font" type="font/ttf" crossorigin>
+<link rel="stylesheet" href="./style.css"><script src="./experience.config.js?v=silverstone-live-continuous-2" defer></script><script src="./panorama.js?v=silverstone-live-continuous-2" defer></script><script src="./app.js?v=silverstone-live-continuous-2" defer></script>
+</head>
+<body data-phase="waiting">
+<main id="experience" aria-label="StoryFrame immersive experience">
+<div id="fallback-scene" aria-hidden="true"></div><canvas id="world" aria-label="Silverstone race panorama. Drag or use arrow keys to look around." tabindex="-1"></canvas><canvas id="wildlife" aria-hidden="true"></canvas><canvas id="fragments" aria-hidden="true"></canvas><div class="shade" aria-hidden="true"></div>
+<header><a class="brand" href="./" aria-label="StoryFrame home"><img class="real-mark" src="./assets/logomark.png" alt=""><img class="real-wordmark" src="./assets/wordmark.png" alt="StoryFrame"></a><div class="header-right"><button id="sound" class="sound-button" aria-label="Turn sound on" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M11 4 5 9H2v6h3l6 5V4Z"/><path id="sound-waves" d="m16 9 5 6m0-6-5 6"/></svg><span id="sound-label">Sound off</span></button></div></header>
+<section id="explore" class="explore" aria-label="Look around the event">
+<div id="movement-prompt" class="movement-prompt"><p id="load-status" class="center-instruction" role="status">Finding your front row…</p><p id="control-hint">Every place holds a story.</p><button id="enable-motion" class="motion-button" hidden>Enable phone movement</button></div>
+<div class="scene-footer"><span id="location-label">SILVERSTONE · BRITISH GRAND PRIX</span><span id="experience-status" aria-live="polite">LOOK AROUND</span></div>
+<div id="gather-prompt" class="gather-prompt" hidden><img src="./assets/logomark.png" alt="" class="gather-mark"><h2>Shake the phone<br>to gather its stories.</h2><button id="gather" class="gather-button">Or tap to gather</button></div>
+</section>
+<div id="convergence-copy" class="convergence-copy" hidden aria-live="polite">Every moment.<br><em>A story.</em></div>
+<section id="reveal" class="reveal" hidden aria-label="StoryFrame app reveal">
+<div class="reveal-heading"><p class="eyebrow">THE WORLD, IN YOUR HANDS.</p><h2>The moment<br>becomes <em>your story.</em></h2></div>
+<div id="phone-wrap" class="phone-wrap"><div id="phone" class="phone"><div class="phone-island"></div><div id="phone-screen" class="phone-screen live-hub" aria-label="Preview of the live Silverstone StoryFrame page"></div></div></div>
+<div class="reveal-actions"><a id="open-app" class="primary" href="https://storyframe.live/live/silverstone">Enter StoryFrame</a><button id="replay" class="text-button"><span class="replay-icon" aria-hidden="true">↺</span><span>Experience it again</span></button></div>
+</section>
+<a class="audio-credit" href="./credits.html" target="_blank" rel="noopener">Credits</a>
+<p id="notice" class="notice" role="status" hidden></p><noscript><div class="noscript">Please enable JavaScript to enter the StoryFrame experience.</div></noscript>
+</main>
+</body></html>
