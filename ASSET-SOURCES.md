@@ -11,4 +11,6 @@ Retain attribution and license links when publishing or redistributing. Venue an
 
 ## Live Silverstone hub update — 9 October 2026
 
-Phone logo, background, welcome image and five category thumbnails are the exact assets from https://storyframe.live/live/silverstone, downloaded and encoded as WebP. Titles and order match the live campaign data (page version 1). These are StoryFrame-provided assets. The Enter button links to that exact URL.
+Phone logo, background, welcome image and five category thumbnails are the exact assets from https://storyframe.live/live/silverstone, downloaded and encoded as WebP. Titles and order match the live campaign data (page version 2). These are StoryFrame-provided assets. The Enter button links to that exact URL.
+
+Live UI refresh: welcome heading updated to “Welcome to / Silverstone!” from page version 2. The live artwork and category order are unchanged.

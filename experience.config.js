@@ -1,4 +1,4 @@
-// Live Silverstone hub and one fixed panorama for every viewing direction.
+// Live Silverstone hub v2 and one fixed panorama for every viewing direction.
 window.STORYFRAME_CONFIG = {
   "title": "StoryFrame · Silverstone",
   "description": "Look around Silverstone, gather its stories, and take the moment with you.",
@@ -31,7 +31,7 @@ window.STORYFRAME_CONFIG = {
     "background": "./assets/live/background.webp",
     "welcome": [
       "Welcome to",
-      "Silver Stone!"
+      "Silverstone!"
     ],
     "featured": {
       "title": "Welcome to Silverstone!",

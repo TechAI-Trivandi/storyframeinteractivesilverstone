@@ -27,3 +27,5 @@ Live Silverstone link and phone-page artwork connected on 9 October 2026. Phone 
 ## Rotation regression correction
 
 Actual GLES rendering confirms that the same fixed world direction keeps its color across 25 different camera headings, with a maximum tolerance of two channel values out of 255. Seven full-sphere headings and the 0°/360° return are checked again. This specifically tests the camera-dependent scene change reported by the user. The shader now has one scene sampler; the software path also samples only that one image.
+
+Live UI v2 refresh: compared campaign data and page template with the preceding version. Only the welcome spelling changed. The phone UI and character color map read that same configuration. Updated heading and ZIP integrity verified; previously checked rotation and transition code is unchanged.

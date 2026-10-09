@@ -1,6 +1,6 @@
 {
   "edition": "Silverstone",
-  "update": "Live Silverstone hub connected and single continuous panorama applied",
+  "update": "Live UI version 2: corrected Silverstone welcome heading",
   "files": [
     {
       "path": ".gitignore",
@@ -14,8 +14,8 @@
     },
     {
       "path": "ASSET-SOURCES.md",
-      "bytes": 2137,
-      "sha256": "e35726b4d4d9b0a87d8fd5c69f45ffebe54462e431ecd93e4bce8a5785472285"
+      "bytes": 2286,
+      "sha256": "ce84cfb64e74c26f64838cd04b2698593330e626ba09a1801233b354d95108ea"
     },
     {
       "path": "GENERATION-NOTES.md",
@@ -24,8 +24,8 @@
     },
     {
       "path": "QA.md",
-      "bytes": 2748,
-      "sha256": "403717abe932d088df941615724d692f639fc4d16d813ae6c501f7584ab9fed6"
+      "bytes": 3046,
+      "sha256": "5a6993f15d2b3ab10cd2ce5f063444a59e3b5dd39902d8aa4422454b73c1c702"
     },
     {
       "path": "README.md",
@@ -114,13 +114,13 @@
     },
     {
       "path": "experience.config.js",
-      "bytes": 2503,
-      "sha256": "195d0a62b7510119af3d64c447ac28c9d31317f8798f9ef8f828f4d443ba489e"
+      "bytes": 2505,
+      "sha256": "ecd0d966bf8797b2fce7f30593a03f352d1373def95a7200b2670400e2ebddfc"
     },
     {
       "path": "index.html",
-      "bytes": 3612,
-      "sha256": "3b4873cd9706a125e0f403b4ad10b9bbf5ec0acbdc486c2cad1c66f23b7cff0e"
+      "bytes": 3588,
+      "sha256": "ed88081d036bf5807ca81349d589e2f9ffe9f2a6290b55eccf8faac9ddc36193"
     },
     {
       "path": "panorama.js",
